@@ -1,0 +1,436 @@
+|a|এক
+|a|ইংরেজী বর্ণমালার আদ্যাক্ষর
+|a|ইংরেজি বর্ণমালার প্রথম অক্ষর
+|aback|বিস্মিত
+|abandon|ত্যাগ করা
+|abbreviations|শব্দসংক্ষেপ
+|abdicate|অধিকার ত্যাগ করা
+|abduction|অপহরণ
+|abed|শয্যাগত
+|aberrant|বিপদগামী
+|aberration|আপাত বিচ্যুতি
+|abeyance|মুলতবি
+|abhor|ঘৃণাভরে পরিহার করা
+|abide|মেনে চলা
+|abnormally|অস্বাভাবিকভাবে
+|aboard|জাহাজের মধ্যে
+|abode|বসবাস করা
+|abolish|বাতিল
+|abolition|বিলোপ
+|abominable|জঘন্য
+|adjudicate|রায় দেওয়া
+|adjudication|বিচারকের রায়
+|adjudicator|বিচারক
+|adjunct|বিশেষণ
+|adjust|সমন্বয়সাধন
+|adjustable|সমন্বয়যোগ্য
+|admirer|গুনমুদ্ধ ব্যক্তি
+|admissible|গ্রহনীয়
+|admission|প্রবেশাধিকার
+|admit|স্বীকার করা
+|admittance|প্রবেশ
+|admitted|স্বীকৃত
+|admittedly|সর্বম্মতিক্রমে
+|ado|গোলমাল
+|adobe|অ্যাডোব
+|adolescence|কৈশোর
+|adopt|অবলম্বন করা
+|agility|তৎপরতা
+|agitation|আন্দোলন
+|agitator|উত্তেজনা সৃষ্টিকারী
+|agnomen|অতিরিক্ত নাম
+|ago|আগে
+|ago|আগে
+|agonizing|অত্যন্ত দুঃখ জনক
+|agony|নিদারুণ যন্ত্রণা
+|agrarian|কার্ষ
+|agrarian|কৃষি
+|agree|সম্মত হওয়া
+|agree|সম্মত হওয়া
+|agreement|মতৈক্য
+|agricultural|কৃষিবিষয়ক
+|agriculture|কৃষি
+|ah|আহা
+|ahead|আগে
+|aid|সাহায্য
+|allocate|বরাদ্দ করা
+|allocated|বরাদ্দকৃত
+|allocation|বরাদ্দ করা
+|allot|বন্টন করা
+|allotment|আবন্টন
+|allow|অনুমতি দেয়া
+|allow|অনুমোদন করা
+|allowance|ভাতা
+|allowed|অনুমোদিত
+|allows|অনুমোদন করে
+|alloy|সঙ্কর
+|alluring|লোভনীয়
+|allusions|পরোক্ষ উল্লেখ
+|ally|মৈত্রীবদ্ধ ব্যক্তি
+|almanac|পঞ্জিকা
+|almond|বাদাম
+|almost|প্রায়
+|aloft|ঊর্ধে
+|alone|একা
+|alone|একা
+|aloneness|একাকীত্ব
+|architecture|স্থাপত্য
+|archive|আর্কাইভ
+|archives|আর্কাইভ
+|area|অংশ
+|areas|এলাকা
+|argriculture|কৃষি
+|argue|যুক্তি দেখানো
+|argument|প্রেরিত মান
+|aristocracy|অভিজাততন্ত্র
+|aristocrat|অভিজাত ব্যক্তি
+|aristocratic|আভিজাত্যপূর্ণ
+|arithmetic|পাটিগণিত
+|arm|বাহু
+|armed|সশস্ত্র
+|armor|ঢাল
+|armored|বর্ম-আচ্ছাদিত
+|armpit|বগল
+|around|চারপাশ
+|automobile|মোটরগাড়ি
+|automobiles|মোটরগাড়ি
+|automotive|যন্ত্রচালিত
+|autonomous|স্বশাসিত
+|autonomy|স্বশাসন
+|autopsy|শবদেহ পরীক্ষা
+|aware|সচেতন
+|away|দূরে
+|awkward|বেঢপ
+|axiom|প্রতিপাদ্য
+|babble|আধো আধো বোল
+|baboon|বেবুন
+|baby|শিশু
+|bachelor|স্নাতক
+|back|পিছন
+|back|পিছনে
+|back|পিছনে
+|back|সমর্থন করা
+|back.pain|পশ্চাতে ব্যাথা
+|backbone|মেরুদন্ড
+|background|পটভূমি
+|blocks|ব্লক
+|blog|ব্লগ
+|blog|ব্লগিং করা
+|blogging|ব্লগিং
+|bloody|রক্তাক্ত
+|blooming|বিকশিত
+|blossom|প্রস্ফুটিত হওয়া
+|blowfish|ব্লোফিশ
+|blowing|প্রবাহিত
+|blowup|ফোলানো
+|blue|নীল
+|bluff|ধাপ্পা
+|blur|অস্পষ্ট ছাপ
+|blur|ঝাপসা
+|board|বোর্ড
+|boom|উচ্চ প্রবৃদ্ধি
+|boom|আকস্মিক বৃদ্ধি পাওয়া
+|booming|সমৃদ্ধ
+|boon|অনুগ্রহ
+|boost|গতি বৃদ্ধি
+|booster|গতি বৃদ্ধিকারক
+|boot|বুট
+|border|সীমারেখা
+|boredom|একঘেঁয়েমি জনিত বিরক্তি
+|boring|বিরক্তিকর
+|born|জন্ম নেওয়া
+|borrow|ধার করা
+|borrower|ঋণগ্রহী
+|build|নির্মাণ করা
+|building|ভবন
+|building|গড়া
+|built|নির্মিত
+|builtin|অন্তর্নির্মিত
+|bulk|অধিকাংশ
+|bullet|বুলেট
+|bullfighter|বৃষের সঙ্গে লড়া
+|bunch|গুচ্ছ
+|bundle|আঁটি
+|buy|ক্রয় করা
+|buyer|ক্রেতা
+|by|দ্বারা
+|bye|বিদায়
+|bytes|বাইট
+|c|সি
+|cabbage|বাঁধাকপি
+|cable|কেবল
+|cables|কেবল
+|cache|ক্যাশ
+|cafe|রেস্তরাঁ
+|cage|খাঁচা
+|cake|কেক
+|calculable|গণনযোগ্য
+|calculate|গণনা
+|calculated|গণনাকৃত
+|calculating|গণনা করছে
+|calculation|গণনা
+|calculator|ক্যালকুলেটর
+|calculus|পাথুরি রোগ
+|calendar|বর্ষপঞ্জি
+|calibration|পরিমাপ নির্দিষ্ট-করণ
+|call|ডাক দেওয়া
+|call|ডাক দেওয়া
+|caller|আহ্বায়ক
+|cave|গুহা
+|cavity|গহ্বর
+|challenge|প্রতিদ্বন্দ্বিতা
+|challenging|প্রতিদ্বন্দ্বিতাপূর্ণ
+|chamber|কক্ষ
+|champagne|শ্যাম্পেন
+|champion|বিজয়ী
+|chance|ভাগ্যক্রমে ঘটে এমন
+|chance|সুযোগ
+|change|পরিবর্তন
+|change|পরিবর্তন করা
+|changed|পরিবর্তিত
+|changes|পরিবর্তন
+|changing|পরিবর্তনশীল
+|channel|চ্যানেল
+|channels|চ্যানেল
+|chapter|অধ্যায়
+|chapters|পরিচ্ছেদ
+|char|অক্ষর
+|character|অক্ষর
+|characteristic|বৈশিষ্ট্য
+|characteristically|বৈশিষ্টময়ভাবে
+|characteristics|গুণাবলিসমূহ
+|characterization|বৈশিষ্ট্য
+|damned|অভিশপ্ত
+|dampness|আর্দ্রতা
+|damsel|তরুণী
+|dance|নৃত্য
+|dance|নাচা
+|danger|বিপদ
+|dangerous|বিপজ্জনক
+|dark|অন্ধকার
+|dark|আঁধার
+|darker|আরো অন্ধকার
+|darkest|অন্ধকারতম
+|darkness|আঁধার
+|darkroom|অন্ধকার ঘর
+|darling|প্রিয়তম
+|das|দাস
+|data|ডেটা
+|data|তথ্য
+|database|ডেটাবেস
+|databases|ডেটাবেস
+|date|তারিখ
+|dates|তারিখ
+|dating|ডেটিং
+|daughter|কন্যা
+|davenport|কারুকার্যপূর্ণ লেখার টেবিল
+|dawn|ভোর
+|day|দিন
+|daylight|দিনের আলো
+|daylong|দিনব্যাপী
+|days|দিন
+|daytime|দিবাভাগ
+|daytime|দিনের বেলা
+|dd|ডিডি
+|deactivated|অচল
+|dead|মৃত
+|deadlock|অচলবস্থা
+|deadly|মারাত্নক
+|deaf|বধির
+|deal|চুক্তি
+|duration|সময়কাল
+|during|সময়ে
+|dutiful|কর্তব্যনিষ্ঠ
+|duty|কর্তব্য
+|dwarf|বামন
+|dwell|বাস করা
+|dweller|বাসিন্দা
+|dye|রং করা
+|dynamic|গতিশীল
+|dynamic|গতিময়
+|dynamically|চলন্ত অবস্থায়
+|dynamics|গতিবিদ্যা
+|dynastic|রাজবংশীয়
+|dynasties|রাজবংশ
+|dynasty|রাজবংশ
+|e.g|উদাঃ
+|each|প্রত্যেক
+|ear|কান
+|earlier|গোড়ার দিকে
+|earliest|যথাশীঘ্র
+|early|আগের
+|early|আগে
+|earn|আয় করা
+|earring|কানের দুল
+|earthbound|পৃথিবী অভিমুখী
+|earthly|সাংসারিক
+|earthquake|ভূকম্পন
+|easier|সহজতর
+|easily|সহজভাবে
+|east|পূর্ব
+|east|পূর্ব
+|eastern|পূর্ব
+|easy|সহজ
+|easy|সহজ
+|eat|খাওয়া
+|eatable|খাদ্য
+|eccentricity|উত্‍কেন্দ্রতা
+|eclectic|সঙ্কীর্ণতামুক্ত
+|eclipse|গ্রহণ
+|ecliptic|ক্রান্তিবৃত্ত
+|economic|অর্থনৈতিক
+|economics|অর্থনীতি
+|economy|অর্থব্যবস্থা
+|edge|কিনারা
+|edible|খাদ্য
+|edifice|অট্টালিকা
+|edit|এডিট
+|edited|সম্পাদিত
+|editing|সম্পাদন
+|fame|সুনাম
+|famed|বিখ্যাত
+|familiar|পরিচিত
+|family|পরিবার
+|famous|বিখ্যাত
+|famously|বিখ্যাতভাবে
+|fan|পাখা
+|fancy|অভিনব
+|far|দূর
+|far|দুর
+|farewell|বিদায় সম্ভাষণ
+|farm|খামার
+|farm|গোলাবাড়ি
+|farmer|কৃষক
+|farmers|কৃষকগণ
+|fashion|ফ্যাশন
+|fast|দ্রুত
+|fast|দ্রুত
+|faster|দ্রুততর
+|fastness|দ্রুততা
+|fatal|মারাত্মক
+|fate|ভাগ্য
+|father|আব্বা
+|fundamental|মৌলিক
+|fundamentalism|মৌলবাদ
+|funeral|শেষকৃত্য
+|funniest|হাস্যকর
+|furious|ক্রোধোন্মত্ত
+|furnace|চুল্লি
+|furniture|আসবাবপত্র
+|further|আরও
+|fusion|জোড়া লাগানো 
+|fussy|বিরক্তিকর
+|future|ভবিষ্যৎ‍‌
+|fuzzy|অস্পষ্ট
+|g|জি
+|gadget|ছোট যন্ত্র
+|gain|লাভ
+|gain|লাভ করা
+|gains|লাভ
+|galaxy|ছায়াপথ
+|gallery|গ্যালারি
+|galloping|দ্রুতবেগে ধাবমান
+|game|খেলা
+|games|খেলা
+|gang|দল
+|ganglion|স্নায়ু-গ্রন্থি
+|gangster|গুন্ডা
+|gap|ফাঁক
+|garbage|জজ্ঞাল
+|garland|মালা
+|garment|পোষাক
+|garments|পোষাক
+|gas|গ্যাস
+|gate|দরজা
+|gateway|গেটওয়ে
+|gather|সমবেত
+|gather|একত্রিত করা
+|gauge|গেজ
+|gay|সমকামী
+|gazelle|গাজলা হরিণ
+|gegenschein|প্রতিদীপ্তি
+|gem|রত্ন
+|gems|রত্ন
+|gender|লিঙ্গ
+|gender|লিঙ্গ
+|gene|জিন
+|guess|অনুমান করা
+|guest|অতিথী
+|guests|অতিথি
+|guide|সহায়িকা
+|guide|পরিচালনা করা
+|guideline|নির্দেশাবলী
+|guilty|দোষী
+|guinea|গিনি
+|gullet|খাদ্যনালি
+|gum|মাড়ি
+|gun|বন্দুক
+|gunman|বন্দুকধারী
+|gunmen|বন্দুকধারী
+|guy|লোক
+|gypsum|ক্যালসিয়াম সালফেটের একটি খনিজ পদার্থ
+|habit|অভ্যাস
+|habits|অভ্যাস
+|hail|অভিনন্দন জানান
+|hail|অভিনন্দন জানানো
+|hair|চুল
+|hairpiece|টুপি
+|hell|দোযখ
+|hell|নরক
+|hellfire|দোযখের আগুন
+|hello|শুনুন
+|hello|ওহে
+|help|সহায়ক তথ্য
+|helper|সহায়তাকারী
+|helpful|সহায়ক
+|hence|তাই
+|hepatitis|হেপাটাইটিস
+|hepatitis|হেপাটাইটিস
+|her|তার
+|herald|আগমনবার্তা ঘোষণা করা
+|herbal|ভেষজ
+|herd|পশুর দল
+|here|এখানে
+|heritage|ঐতিহ্য
+|hero|নায়ক
+|heroic|বীরোচিত
+|heroically|বীরত্বপূর্ণভাবে
+|heroine|নায়িকা
+|heroism|বীরত্ব
+|hesitate|ইতস্ততঃ করা
+|hey|ওহে
+|hibernate|জড়ভাবে শীত কাটানো
+|hiccup|হিচকি
+|horse|ঘোড়া
+|horseman|অশ্বারোহী
+|hospitality|আতিথেয়তা
+|host|হোস্ট
+|host|আমন্ত্রক
+|hostage|পণবন্দী
+|hostess|অতিথিসেবক
+|hostile|প্রতিকূল
+|hostile|শত্রুভাবাপন্ন
+|hosting|হোস্টিং
+|hosts|আয়োজন করে
+|hot|গরম
+|hour|ঘন্টা
+|hours|ঘন্টা
+|house|আশ্রয় দেওয়া
+|houseboat|ভাসমান বাড়ি
+|household|ঘরোয়া
+|housekeeping|গৃহপরিচর্যা
+|housewife|গৃহবধূ
+|how|কেমন
+|however|তাহলেও
+|howl|গর্জন করা
+|hub|কেন্দ্র
+|huddle|গাদাগাদী করে থাকা
+|hue|রঙের সূক্ষ তারতম্য
+|huge|বিশাল
+|hugely|বিশালভাবে
+|hullabaloo|চেঁচামেচি
+|human|মানবিক
+|human|মানুষ
+|human.rights|মানবাধিকার
+|humane|মানবিক
+|humanitarian|মানবিক
